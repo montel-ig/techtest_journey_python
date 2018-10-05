@@ -25,4 +25,4 @@ create actions.
 
 After you are satisfied, commit and push your API to your own branch. 
 Our CI should deploy your changes and then you should query the details
-of Uranus for the next challenge.
+of Uranus to continue.
