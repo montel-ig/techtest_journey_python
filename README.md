@@ -1,14 +1,15 @@
-# techtest_journey_python
+# Hello again! 
 
-Hello again! Now let's build a quick REST API. Feel free to use
-any frameworks or libraries you want as long as your server runs
-with `start_server.sh`.
- 
-The example here is provided with Flask. Feel free to extend it if 
-you wish.
+We need help! Our fancy planetary database lacks a REST-API. Let's
+build one!
 
-The database is provided by `database.py`. It's a sortiment of
-of planets which can have one or more moons.
+Start by *creating a new branch based on master*. Name the branch after
+yourself, please.
+
+Feel free to use any frameworks or libraries you want as long as your 
+server runs with `start_server.sh` and uses the database provided by 
+`database.py`. The example here is provided with Flask. Feel free to 
+extend it if you wish.
 
 The existing API is very lacking:
 
