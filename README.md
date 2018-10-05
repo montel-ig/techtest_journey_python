@@ -11,9 +11,18 @@ server runs with `start_server.sh` and uses the database provided by
 `database.py`. The example here is provided with Flask. Feel free to 
 extend it if you wish.
 
+The data is planets with a list of moons under them. 
 The existing API is very lacking:
 
 ```bash
 curl 94.237.48.28:8000/planets
-["mars", "earth"]
+["mars", "earth", "uranus"]
 ```
+
+Build a better one so that one could query the details of a single 
+planet. The API should be read-only, so no need for update, delete or
+create actions.
+
+After you are satisfied, commit and push your API to your own branch. 
+Our CI should deploy your changes and then you should query the details
+of Uranus for the next challenge.
