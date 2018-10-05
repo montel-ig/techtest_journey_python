@@ -4,7 +4,7 @@ We need assistance! Our fancy planetary database lacks a REST-API. Let's
 build one!
 
 Start by *creating a new branch based on master*. Name the branch after
-yourself, please.
+yourself, please (first name will suffice).
 
 Feel free to use any frameworks or libraries you want as long as your 
 server runs with `start_server.sh` and uses the database provided by 
