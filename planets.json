@@ -1,0 +1,22 @@
+{
+  "mars": {
+    "moons": [
+      {
+        "name": "Phobos",
+        "description": "Named after the Greek mythical character, son of Ares and responsible for panic and fear."
+      },
+      {
+        "name": "Deimos",
+        "description": "Named after the Greek mythical character, son of Ares and responsible for terror and dread."
+      }
+    ]
+  },
+  "earth": {
+    "moons": [
+      {
+        "name": "Moon",
+        "description": "The Moon is an astronomical body that orbits planet Earth and is Earth's only permanent natural satellite."
+      }
+    ]
+  }
+}
