@@ -13,5 +13,6 @@ of planets which can have one or more moons.
 The existing API is very lacking:
 
 ```bash
-curl 
+curl 94.237.48.28:8000/planets
+["mars", "earth"]
 ```
