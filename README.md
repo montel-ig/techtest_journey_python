@@ -1,6 +1,6 @@
-# Hello again! 
+# Hello again 
 
-We need help! Our fancy planetary database lacks a REST-API. Let's
+We need assistance! Our fancy planetary database lacks a REST-API. Let's
 build one!
 
 Start by *creating a new branch based on master*. Name the branch after
